@@ -7,3 +7,9 @@ When activated, it creates an admin settings page in Settings > Embed Cam.  Ther
   1. a checkbox which when checked will embed the cam at the bottom of the Home page & each Post page, right above the footer,
   2. a textbox where you can enter a heading that will appear above the embedded cam,
   3. a textbox to enter the <iframe> embed code.
+
+The Settings page:
+![Settings](https://github.com/exactingcrowbar/wp-plugin-embed-cam/blob/master/Screenshot_CamSettings.png)
+
+The embedded streaming cam at the bottom of the Home page:
+![Embedded cam](https://github.com/exactingcrowbar/wp-plugin-embed-cam/blob/master/Screenshot_Cam.png)
